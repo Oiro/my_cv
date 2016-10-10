@@ -1,0 +1,36 @@
+---
+1: !ruby/object:Mail
+  email: georgebenson@gmail.com
+  title: Final Greeting
+  content: Kick start movie
+  id: 1
+2: !ruby/object:Mail
+  email: bobcarson@yahoo.co.uk
+  title: ARGO
+  content: Immaculate Conception
+  id: 2
+3: !ruby/object:Mail
+  email: mancini@yahoo.com
+  title: Escapade
+  content: 'Siku jui '
+  id: 3
+4: !ruby/object:Mail
+  email: dickens_oti@gmail.com
+  title: Dextrose
+  content: High Energy
+  id: 4
+5: !ruby/object:Mail
+  email: ded@d
+  title: otta
+  content: btre
+  id: 5
+6: !ruby/object:Mail
+  email: georgebenson@gmail.com
+  title: Secure File
+  content: Amazing Grace
+  id: 6
+7: !ruby/object:Mail
+  email: stanford@mark.com
+  title: Fetters Allowed
+  content: Freedom Corner
+  id: 7
