@@ -34,3 +34,127 @@
   title: Fetters Allowed
   content: Freedom Corner
   id: 7
+8: !ruby/object:Mail
+  email: dickens_oti@gmail.com
+  title: Grover Bedrock
+  content: Callous Waters
+  id: 8
+9: !ruby/object:Mail
+  email: kevin.ochieng@outlook.com
+  title: Returns and Capital
+  content: Nairobi is the capital city of Kenya in this african continent
+  id: 9
+10: !ruby/object:Mail
+  email: kevin.ochieng@outlook.com
+  title: Returns and Capital
+  content: Nairobi is the capital city of Kenya in this african continent
+  id: 10
+11: !ruby/object:Mail
+  email: gregory.isaacs@aol.com
+  title: Greetings
+  content: Allowed summertime vacation in this world
+  id: 11
+12: !ruby/object:Mail
+  email: carey.francis@outlook.com
+  title: Carried Away
+  content: I still do care about you and beverly.
+  id: 12
+13: !ruby/object:Mail
+  email: carey.francis@outlook.com
+  title: Carried Away
+  content: I still do care about you and beverly.
+  id: 13
+14: !ruby/object:Mail
+  email: feeder@breakthru.com
+  title: Happenings Abound
+  content: Development Agenda
+  id: 14
+15: !ruby/object:Mail
+  email: barnabas@microsoft.com
+  title: Windows Product Key
+  content: Developing a key resource
+  id: 15
+16: !ruby/object:Mail
+  id: 16
+  store: !ruby/object:Psych::Store
+    opt: &1 {}
+    filename: Sorority Member
+    abort: false
+    ultra_safe: false
+    thread_safe: *1
+    lock: !ruby/object:Thread::Mutex {}
+17: !ruby/object:Mail
+  email: derrick.rose@outlook.com
+  title: Seventy Revision Guide
+  content: Hover Craft Productions
+  id: 17
+18: !ruby/object:Mail
+  email: mayweather@billings.co.us
+  title: Boxing Rematch
+  content: On Demand Bountam weightmatches.
+  id: 18
+19: !ruby/object:Mail
+  email: fanuel.ochieng@yahoo.com
+  title: Beginning Ruby
+  content: Awareness Bureau
+  id: 19
+20: !ruby/object:Mail
+  email: fanuel.ochieng@yahoo.com
+  title: Beginning Ruby
+  content: Awareness Bureau
+  id: 20
+21: !ruby/object:Mail
+  email: biggysmalls@gmail.com
+  title: Bright Sunday Morning
+  content: Uplifting Character in the media televised station.
+  id: 21
+22: !ruby/object:Mail
+  email: info@standardmedia.co.ke
+  title: Nimrod Taabu
+  content: Allowances in a jiffy.
+  id: 22
+23: !ruby/object:Mail
+  email: james.odede@gmail.com
+  title: Co Founder LakeHub
+  content: Eventful Tuesday Morning.
+  id: 23
+24: !ruby/object:Mail
+  email: james.odede@gmail.com
+  title: Co Founder LakeHub
+  content: Eventful Tuesday Morning.
+  id: 24
+25: !ruby/object:Mail
+  email: carswelevo@gmail.com
+  title: Poetic Energy
+  content: Facebook Posts on a roll.
+  id: 25
+26: !ruby/object:Mail
+  email: cliveochanda@gmail.com
+  title: Ruby on Rails Tutorial
+  content: Bigger campaigns for the year 2017
+  id: 26
+27: !ruby/object:Mail
+  email: georgeoremo@hotmail.com
+  title: Founding Fathers
+  content: Young Turks Galore
+  id: 27
+28: !ruby/object:Mail
+  email: benson.hedges@gmail.com
+  title: Development Agenda
+  content: Halloween Party
+  id: 28
+29: !ruby/object:Mail
+  email: noah@yahoo.co.uk
+  title: Arrivals and Departure
+  content: Finding a niche in the tech space scene
+  id: 29
+30: !ruby/object:Mail
+  email: 
+  title: 
+  content: 
+  id: 30
+31: !ruby/object:Mail
+  email: jamaican.whistles@gmail.com
+  title: Freddie Kruger
+  content: Atomicity in Action
+  id: 31

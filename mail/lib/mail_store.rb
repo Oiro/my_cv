@@ -4,7 +4,9 @@ class MailStore
 
 	def initialize(file_name)
 
+
 		@store = YAML::Store.new(file_name)
+		
 
 	end
 

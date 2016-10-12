@@ -1,26 +1,17 @@
 require 'sinatra'
-# require 'email'
-# require 'yaml'
+
 
 get('/resume') do
 
-	erb :resume
+	# erb :index
+	'Hello, world!'
+
 
 end
 
-get('/email/mail_to') do
+get('/resume/mail_to') do
 
-	erb :mail_to
+	# erb :mail_to
+	'Halloween!'
 
 end
-
-# post('email/create') do 
-# 	# "Received: #{params.inspect}"
-# 	@email = Email.new
-# 	@email.title = params['title']
-# 	@message = Message.new
-# 	@message = params['message']
-# 	@content = Content.new
-# 	@content = params['content']
-
-# end

@@ -6,38 +6,29 @@ require 'yaml/store'
 store = MailStore.new('mail.yml')
 
 get('/resume') do
-
+	mail = store.all
 	erb :index
 
 end
 
 get('/resume/mail_to') do
-
+	
 	erb :mail_to
+	# '<h1>Heading</h1>'
 
 end
 
-# get('/resume/show') do
-
-
-# 	erb :show
-
-
-# end
-
 post('/resume/create') do 
 	# "Received: #{params.inspect}"
-	@mail = Mail.new
-	@mail.email = params['email']
-	# @email = Email.new
-	@mail.title = params['title']
-	# @email = Email.new
-	@mail.content = params['content']
+	
+	@mail = Mail.new(email: params['email'], title: params['title'], content: params['content'])
 
+	
 	store.save(@mail)
-	# redirect '/resume/mail_to'
+	# 
+	redirect '/resume'
+	# erb :show
 	# erb :index
-	erb :show
 
 end
 
